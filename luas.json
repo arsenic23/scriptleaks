@@ -1,11 +1,13 @@
-[
-  "amnesia",
-  "bluhgang",
-  "genesis",
-  "interitus",
-  "jitterdev",
-  "marioresolver",
-  "moriade",
-  "nomsync",
-  "risen"
-]
+{
+  "luas": [
+    "amnesia",
+    "bluhgang",
+    "genesis",
+    "interitus",
+    "jitterdev",
+    "marioresolver",
+    "moriade",
+    "nomsync",
+    "risen"
+  ]
+}
