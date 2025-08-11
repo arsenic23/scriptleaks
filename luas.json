@@ -116,6 +116,9 @@
     "wraith", 
     "xo-yaw", 
     "zephyrus", 
-    "zov-yaw" 
+    "zov-yaw",
+    "exodus-exclusive",
+    "exodus-early",
+    "anoflow"
   ]
 }
